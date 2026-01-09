@@ -283,3 +283,46 @@
     height: 16.25px;
 }
 
+
+.early-access{
+    
+    display: flex;
+    justify-content: center;
+
+}
+.early-access-sectio{
+
+    margin-top: 120px;
+    margin-bottom: 120px;
+    background-color: #f9f8f4; 
+    width: 67%;
+    max-width: 1600px; 
+    padding: 80px 40px;
+    border-radius: 12px; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.early-access-sectio h3{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    color: #001931;
+}
+
+.early-access-description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 24px;
+}
+.early-access-note{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    margin-top: 16px;
+}
+
